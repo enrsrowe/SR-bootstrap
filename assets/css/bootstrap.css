@@ -143,12 +143,14 @@ textarea {
   box-sizing: border-box;
 }
 body {
+  background-image: url('../img/bg.png');
+  background-repeat:repeat;
   margin: 0;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 20px;
   color: #555555;
-  background-color: #ffffff;
+
 }
 a {
   color: #2fa4e7;
